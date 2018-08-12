@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding/application_vulnerability.py=utf-8
+encoding/database_vulnerability.py=utf-8
+encoding/network_vulnerability.py=utf-8
+encoding/product_vulnerability.py=utf-8
+encoding/system_vulnerability.py=utf-8
+encoding/test.py=utf-8
+encoding/test_spider.py=utf-8
+encoding/web_vulnerability.py=utf-8
